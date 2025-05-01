@@ -192,16 +192,6 @@ My work spans across Data Science domains in Classical ML, Deep Learning, MLOps 
 - **Nutrition Management Database Design** An end-to-end Nutrition Management Database Design [View Repository](https://github.com/suhaskm-neu/Nutrition-Management)
 ## 📫 Reach out to me
 
-## Relevant Course work
-
-- INFO 6105 - **Data Science Engineering Methods and Tools**
-
-- INFO 5001 - **Application Engineering Development**
-
-- INFO 6210 - **Data Management and Database Design**
-
-- INFO 7390 - **Advances in Data Science**
-
 ---------------
 
 ## Let's Connect
