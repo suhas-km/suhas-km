@@ -183,17 +183,6 @@ My work spans across Data Science domains in Classical ML, Deep Learning, MLOps 
   </tr>
 </table>
 
-## 📚 Projects
-
-- **Credit Risk Classification:** Developed a PyTorch neural network to classify if a loan request would be defaulted or not. Solved imbalanced dataset issue. [View Repository](https://github.com/suhaskm-neu/Credit-Risk-Classification-Model)
-- **Smart Waste Bin - Research:** Proposed a prototype model-solution to fix Waste Management with Computer Vision, Deep Learning, IoT & Cloud Services. CNNs and Advanced Neural Network Architectures. [View Repository](https://github.com/suhaskm-neu/Waste-Management-in-Urban-Localities)
-- **Software Development Project:** An end-to-end Java-MVC application for Childrens Daycare/School. [View Repository](https://github.com/suhaskm-neu/Children-Daycare)
-- **Transfer Learning on CNNs** Visualising Feature Maps in CNN and extensively comparing various Convulated architectures. [View Repository](https://github.com/suhaskm-neu/Transfer-Learning-CNN)
-- **Nutrition Management Database Design** An end-to-end Nutrition Management Database Design [View Repository](https://github.com/suhaskm-neu/Nutrition-Management)
-## 📫 Reach out to me
-
----------------
-
 ## Let's Connect
 
 I’m always excited to collaborate or discuss innovative ideas.
