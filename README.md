@@ -11,7 +11,6 @@ My work spans across Data Science domains in Classical ML, Deep Learning, MLOps 
 - 🌟 **AI Research:** Applying cutting-edge AI for intelligent systems & predictive modeling.
 - 📊 **Business Intelligence:** Driving data insights with Tableau to align tech and business goals.
 - 🎓 **AWS Certifications:** Pursuing AWS Cloud Practitioner & Solutions Architect credentials.
-- 📚 **Global Perspective:** Exploring geopolitics & economics to broaden tech impact.
 - 🤝 **Collaboration:** Engaging in projects that push tech limits & yield societal benefits.
 
 <h1>Technical Skills</h1>
