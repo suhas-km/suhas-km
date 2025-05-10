@@ -185,7 +185,7 @@ A grad at Northeastern University pursuing Information Systems. My work spans ac
 I’m always excited to collaborate or discuss innovative ideas.
 
 - **LinkedIn:** [www.linkedin.com/in/suhaskm/](https://www.linkedin.com/in/suhaskm/)
-- **Portfolio Page** [suhas.page](https://www.suhas.page)
+- **Portfolio Page:** [suhas.page](https://www.suhas.page)
 - **Email 1:** suhaskm23@gmail.com
 - **Email 2:** km.s@northeastern.edu
 
