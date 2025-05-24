@@ -1,6 +1,8 @@
-# Hello, I'm Suhas 👋
+# Welcome!
 
-A grad at Northeastern University pursuing Information Systems. My work spans across Data Science domains in Classical ML, Deep Learning, MLOps and Software Development adhering to Object-Oriented Design. I focus on depth of knowledge and engineering in every project. My decisions dive into System Design, Cloud Computing, Networking, Data Structures & Algorithms and Containerization.
+I'm Suhas 👋, a grad at Northeastern University pursuing Information Systems. My work spans across Data Science domains in Classical ML, Deep Learning, MLOps and Software Development adhering to Object-Oriented Design. 
+
+I focus on depth of knowledge and engineering in every project. My decisions dive into System Design, Cloud Computing, Networking, Data Structures & Algorithms and Containerization.
 
 ## 🌐 About Me
 
